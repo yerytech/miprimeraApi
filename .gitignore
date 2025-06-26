@@ -1,0 +1,20 @@
+# .NET Core
+bin/
+obj/
+
+# SQLite
+*.db
+*.db-journal
+
+# Visual Studio Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# User config
+*.user
+*.suo
+
+# Logs
+*.log
